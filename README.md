@@ -15,21 +15,20 @@ Images are organized using the following directory structure:
 dataset/
 │
 ├── normal/
-│ ├── plant_01/
-│ │ ├── side.jpg
-│ │ ├── top.jpg
-│ │ └── angle.jpg
-│ ├── plant_02/
-│ │ └── ...
+│   ├── plant_01/
+│   │   ├── side.jpg
+│   │   ├── top.jpg
+│   │   └── angle.jpg
+│   ├── plant_02/
+│   │   └── ...
 │
 └── stress/
-├── plant_01/
-│ ├── side.jpg
-│ ├── top.jpg
-│ └── angle.jpg
-└── plant_02/
-└── ...
-
+    ├── plant_01/
+    │   ├── side.jpg
+    │   ├── top.jpg
+    │   └── angle.jpg
+    ├── plant_02/
+    │   └── ...
 
 Each **plant folder corresponds to one plant sample**, and all images within a folder belong to the same plant captured from different perspectives.
 
