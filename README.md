@@ -1,4 +1,4 @@
-# Plant_Image_Analysis
+# Plant Image Analysis
 
 This notebook extracts handcrafted image features from **multi-view plant images** captured under **normal** and **moisture stress** conditions.  
 Each plant is treated as a single biological sample and is represented by **three image views** to capture structural and visual variability.
