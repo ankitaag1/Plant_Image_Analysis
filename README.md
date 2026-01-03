@@ -30,6 +30,7 @@ dataset/
     ├── plant_02/
     │   └── ...
 
+
 Each **plant folder corresponds to one plant sample**, and all images within a folder belong to the same plant captured from different perspectives.
 
 ## Feature Extraction and Aggregation
