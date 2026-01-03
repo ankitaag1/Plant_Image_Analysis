@@ -12,6 +12,7 @@ For each plant, **three different image views** are available:
 
 Images are organized using the following directory structure:
 
+<pre>
 dataset/
 │
 ├── normal/
@@ -25,11 +26,12 @@ dataset/
 └── stress/
     ├── plant_01/
     │   ├── side.jpg
-    │   ├── top.jpg
-    │   └── angle.jpg
+    │   │   ├── side.jpg
+    │   │   ├── top.jpg
+    │   │   └── angle.jpg
     ├── plant_02/
     │   └── ...
-
+</pre>
 
 Each **plant folder corresponds to one plant sample**, and all images within a folder belong to the same plant captured from different perspectives.
 
